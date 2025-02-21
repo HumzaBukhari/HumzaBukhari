@@ -5,8 +5,10 @@ I'm a CS student at UIC who is (hopefully) going to graduate in Winter 2025. I'm
 -C/C++ - Competent
 -Java - Competent
 -SQL - Competent
+
 -Python - Amateur
 -JavaScript - Amateur
+
 -R/GoLang/F#/Julia - Beginner
 -Experience with professional IDEs such as VScode, Eclipse, and IntelliJ
 
