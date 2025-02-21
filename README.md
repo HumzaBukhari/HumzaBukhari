@@ -2,14 +2,12 @@
 I'm a CS student at UIC who is (hopefully) going to graduate in Winter 2025. I'm passionate about complex problem-solving and adapting my skills to crack issues; I treat programming almost like solving a puzzle. I'm always excited to learn and apply new skills, languages, and environments. I'm currently learning about programming microcontrollers and connecting them together over wifi and Bluetooth. In the future, I aspire to be a backend or network developer, but I am open to a lot of different positions. In an unstable job market, it helps to be a jack of all trades.
 
 ## Technical Skills
--C/C++ - Competent
--Java - Competent
--SQL - Competent
+-C/C++, Java, SQL - Competent
 
--Python - Amateur
--JavaScript - Amateur
+-Python, JavaScript - Amateur
 
--R/GoLang/F#/Julia - Beginner
+-R, GoLang, F#, Julia - Beginner
+
 -Experience with professional IDEs such as VScode, Eclipse, and IntelliJ
 
 ## Fun Facts
