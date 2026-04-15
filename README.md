@@ -6,7 +6,7 @@ I'm a CS student at UIC who is (hopefully) going to graduate in Spring 2026. I'm
 
 -Python, JavaScript - Amateur
 
--R, GoLang, F#, Julia - Beginner
+-R, Ruby, GoLang, F#, Julia - Beginner
 
 -Experience with professional IDEs such as VScode, Eclipse, and IntelliJ
 
